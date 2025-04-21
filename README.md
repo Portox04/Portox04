@@ -1,9 +1,9 @@
-## Hi, Im Erick👋
+## Hi, I'm Erick👋
 
-👨‍💻 Estudiante de Ingeniería en Software 
-💡 Apasionado por la tecnología y el desarrollo 
-🔧 Mejorando en Python, Java y Linux
-🎓 Universidad Fidelitas
+👨‍💻 Estudiante de Ingeniería en Software <br/>
+💡 Apasionado por la tecnología y el desarrollo<br/> 
+🔧 Mejorando en Python, Java y Linux<br/>
+🎓 Universidad Fidelitas<br/>
 
 
 ## 🌐 Socials:
